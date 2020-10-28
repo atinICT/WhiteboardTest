@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhiteboardTest</string>
+    <string name="pref_name" translatable="false">WHITE_BOARD_PREF</string>
+</resources>

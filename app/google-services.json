@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455171954916",
+    "firebase_url": "https://whiteboard-c9fdf.firebaseio.com",
+    "project_id": "whiteboard-c9fdf",
+    "storage_bucket": "whiteboard-c9fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455171954916:android:a3cbb11c3f82759e",
+        "android_client_info": {
+          "package_name": "org.whiteboard.atin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455171954916-fuq26hpmone9bspkq8igap2tceuseq9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.whiteboard.atin",
+            "certificate_hash": "cae478f2508c125b2d42efe2e7cfc8bb51c0f9fe"
+          }
+        },
+        {
+          "client_id": "455171954916-0o4cvbm5an86tsvcnarqursdjbs5eb46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhwBGdeIihgL_nwl4TUrP6ykEyuMRhow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455171954916-0o4cvbm5an86tsvcnarqursdjbs5eb46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

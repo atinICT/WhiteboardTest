@@ -1,0 +1,2 @@
+include ':app', 'sdagger-annotations', 'sdagger-compiler'
+rootProject.name = "WhiteboardTest"
